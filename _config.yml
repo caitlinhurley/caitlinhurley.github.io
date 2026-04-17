@@ -1,3 +1,6 @@
 title: Caitlin Hurley
 description: Diary of a 20 something year old
 theme: minima
+
+header_pages:
+  - about.md
